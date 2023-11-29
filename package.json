@@ -1,22 +1,19 @@
 {
-  "name": "rsschool-cv",
+  "name": "my-portfolio",
   "version": "1.0.0",
-  "description": "ссылка на cv:",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i-r-v-i/rsschool-cv.git"
+    "url": "git+https://github.com/i-r-v-i/my_Portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/i-r-v-i/rsschool-cv/issues"
-  },
-  "homepage": "https://github.com/i-r-v-i/rsschool-cv#readme",
+ 
   "devDependencies": {
     "@types/node": "^20.9.0",
     "@types/webpack": "^5.28.5",
